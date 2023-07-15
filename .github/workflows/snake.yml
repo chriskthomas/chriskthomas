@@ -26,11 +26,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v2
         with:
           github_user_name: chriskthomas
-          svg_out_path: 'dist/snake.svg'
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
