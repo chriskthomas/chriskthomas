@@ -26,7 +26,7 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       # Snake Animation
-      - uses: Platane/snk/svg-only@v2
+      - uses: Platane/snk@v2
         with:
           github_user_name: chriskthomas
           outputs: |
