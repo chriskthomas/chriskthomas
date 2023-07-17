@@ -7,4 +7,8 @@
 - [New Fantasy &lpar;Book in Progress&rpar;](https://chriskthomas.com/2021/new-fantasy/)
 <!-- BLOG-POST-LIST:END -->
 ---
-<p align="center"><img alt="snake animated commit history visualizer" src="https://chriskthomas.github.io/chriskthomas/snake.svg"></p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chriskthomas.github.io/chriskthomas/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://chriskthomas.github.io/chriskthomas/github-snake.svg" />
+  <img alt="github-snake" src="https://chriskthomas.github.io/chriskthomas/github-snake.svg" />
+</picture></p>
