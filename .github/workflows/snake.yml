@@ -26,12 +26,15 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       # Snake Animation
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
           github_user_name: chriskthomas
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+          env:
+            # a github token is required to fetch the contribution calendar from github API
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
