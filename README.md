@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! You're in the *write place*.
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
