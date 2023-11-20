@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 <p align="center"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chriskthomas.github.io/chriskthomas/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://chriskthomas.github.io/chriskthomas/github-snake.svg" />
-  <img alt="github-snake" src="https://chriskthomas.github.io/chriskthomas/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://writeplace.github.io/writeplace/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://writeplace.github.io/writeplace/github-snake.svg" />
+  <img alt="github-snake" src="https://writeplace.github.io/writeplace/github-snake.svg" />
 </picture></p>
