@@ -1,4 +1,4 @@
-## Hi there! You're in the *write place*.
+## Hi there! I'm Chris K. Thomas.
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
