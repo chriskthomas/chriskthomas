@@ -2,11 +2,11 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 1 – Our Gods and How They Kill Us](https://chriskthomas.com/2025/chapter-1-our-gods-and-how-they-kill-us/)
-- [Stones Across the Water](https://chriskthomas.com/2025/stones-across-the-water/)
-- [The Edge of Endless Grass – Chapter 1](https://chriskthomas.com/2022/chapter-1-a-day-in-that-village/)
-- [End in Sight &lpar;Draft Written!&rpar;](https://chriskthomas.com/2022/end-in-sight/)
-- [New Fantasy &lpar;Book in Progress&rpar;](https://chriskthomas.com/2021/new-fantasy/)
+- [Hello world!](https://chriskthomas.com/2025/06/02/hello-world/)
+- [Chapter 1 – Our Gods and How They Kill Us](https://chriskthomas.com/2025/03/28/chapter-1-our-gods-and-how-they-kill-us/)
+- [Stones Across the Water](https://chriskthomas.com/2025/03/25/stones-across-the-water/)
+- [The Edge of Endless Grass – Chapter 1](https://chriskthomas.com/2022/09/04/chapter-1-a-day-in-that-village/)
+- [End in Sight &lpar;Draft Written!&rpar;](https://chriskthomas.com/2022/09/04/end-in-sight/)
 <!-- BLOG-POST-LIST:END -->
 ---
 <p align="center"><picture>
